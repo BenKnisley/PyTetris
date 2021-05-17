@@ -31,7 +31,7 @@ class Tetromino:
         self.x = int(parent.block_width / 2) ## x coord of base block element
         self.y = parent.block_height
 
-        ## Setup rotate w
+        ## Setup rotate variable
         self.rotate = 0
 
         if blocks:
