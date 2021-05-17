@@ -5,7 +5,7 @@ as a fun coding exercise, it turned out to be very playable and fun.
 
 
 The game uses PyGtk for the UI, and has no other dependencies. Code is not 
-fully documented, but is pretty strait forward. There are no tests.
+fully documented, but is pretty straight forward. There are no tests.
 This project is unlikely to get any more development.
 
 ## Usage
